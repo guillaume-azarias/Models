@@ -15,11 +15,11 @@
 *.xml
 *.yml
 
+# Ignore the folders
+.vscode/
+
 # Ignore files
 # git_pusher.sh
-
-# Ignore the folders
-# .vscode/
 
 # Byte-compiled / optimized / DLL files
 .ipynb_checkpoints
