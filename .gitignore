@@ -19,7 +19,7 @@
 # git_pusher.sh
 
 # Ignore the folders
-.vscode/
+# .vscode/
 
 # Byte-compiled / optimized / DLL files
 .ipynb_checkpoints
