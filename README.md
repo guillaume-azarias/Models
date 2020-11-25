@@ -1,5 +1,3 @@
-# MNIST recognition
+# Models
 
-Local generation of a SVC model for MNIST character recognition.
-
-Modified from the [sklearn tutorial](https://scikit-learn.org/stable/auto_examples/classification/plot_digits_classification.html#sphx-glr-download-auto-examples-classification-plot-digits-classification-py)
+This repository centralises the models generated and available through [omega|ml](https://www.omegaml.io/).
